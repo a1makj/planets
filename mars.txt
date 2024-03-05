@@ -1,2 +1,3 @@
 Benus is a planet
 Mars is a planet
+Earth is a ball
